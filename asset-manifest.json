@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20a358bc.css",
+    "main.js": "/static/js/main.9063ef93.js",
+    "static/js/787.821c9875.chunk.js": "/static/js/787.821c9875.chunk.js",
+    "static/media/launch-page-bg.jpg": "/static/media/launch-page-bg.3d78be367acb6e611adb.jpg",
+    "static/media/Spectral-ExtraLightItalic.woff2": "/static/media/Spectral-ExtraLightItalic.53fee53f69297766a789.woff2",
+    "static/media/Spectral-ExtraLight.woff2": "/static/media/Spectral-ExtraLight.fbbb200943f700ff97ca.woff2",
+    "static/media/Spectral-ExtraLightItalic.woff": "/static/media/Spectral-ExtraLightItalic.642daf720a902400b34e.woff",
+    "static/media/Spectral-ExtraLight.woff": "/static/media/Spectral-ExtraLight.a648261036492364d95e.woff",
+    "static/media/averta-bold.woff2": "/static/media/averta-bold.8fdcd8d42c7e77010193.woff2",
+    "static/media/averta-normal.woff2": "/static/media/averta-normal.39d048797bfbc1bff77c.woff2",
+    "static/media/spectral-v7-latin-regular.woff": "/static/media/spectral-v7-latin-regular.cd26a1bfa35b6f4d4750.woff",
+    "static/media/spectral-v7-latin-regular.woff2": "/static/media/spectral-v7-latin-regular.a2bdb72ed42275b1ace0.woff2",
+    "static/media/roboto-mono-v13-latin-regular.woff": "/static/media/roboto-mono-v13-latin-regular.498042b7fe9cd07b4fd1.woff",
+    "static/media/roboto-mono-v13-latin-regular.woff2": "/static/media/roboto-mono-v13-latin-regular.535bc89d4af715503b01.woff2",
+    "index.html": "/index.html",
+    "main.20a358bc.css.map": "/static/css/main.20a358bc.css.map",
+    "main.9063ef93.js.map": "/static/js/main.9063ef93.js.map",
+    "787.821c9875.chunk.js.map": "/static/js/787.821c9875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20a358bc.css",
+    "static/js/main.9063ef93.js"
+  ]
+}
